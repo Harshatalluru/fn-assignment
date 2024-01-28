@@ -8,7 +8,7 @@ function App() {
     <>
     <BrowserRouter>
     <Routes>
-      <Route path='/' element={<Landingpage/>} />
+      <Route path='/fn-assignment' element={<Landingpage/>} />
     </Routes>
     </BrowserRouter>
     </>
