@@ -1,7 +1,7 @@
 {
   "name": "fn-mafia",
   "version": "0.1.0",
-  "homepage": "https://Harshatalluru.github.io/fn-mafia-assignment",
+  "homepage": "https://github.com/Harshatalluru/fn-assignment",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.17",
